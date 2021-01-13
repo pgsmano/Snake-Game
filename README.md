@@ -1,4 +1,4 @@
-# Recriando a interface do Instagram
+# Criando jogo da Cobrinha
 
 Código por [SpruceGabriela](https://github.com/SpruceGabriela)
 
