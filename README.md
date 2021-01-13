@@ -1,4 +1,4 @@
-# Criando o jogo da cobrinha
+# Criando jogo da Cobrinha
 
 Código por [SpruceGabriela](https://github.com/SpruceGabriela)
 
